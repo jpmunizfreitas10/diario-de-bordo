@@ -1,0 +1,7 @@
+- [ ] Criar um repositório.
+- [ ] Realizar um commit.
+- [ ] Criar um arquivo pelo GitHub.
+- [ ] Sei Diferenciar Git e GitHub.
+- [x] Realizar uma merge.
+- [x] Saber trabalhar com branches.
+- [x] Fazer um pull requests.
